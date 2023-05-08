@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="20" />Hey! I'm Gustavo, from Brazil.<br>🕯️Actually I have 18 years.<br>💻I'm interested in project management, programming and psychology.<br>👨‍💻Learning Flutter, Html and CSS, to use mainly in Front-end Dev.<br>❣️I enjoy play games like overwatch, painting and practice martial-arts.<br>
+<img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="20" />Hey! I'm Gustavo, from Brazil.<br>🕯️Actually I have 19 years.<br>💻I'm interested in project management, programming and psychology.<br>👨‍💻Learning Flutter, Html and CSS, to use mainly in Front-end Dev.<br>❣️I enjoy play games like overwatch, painting and practice martial-arts.<br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
